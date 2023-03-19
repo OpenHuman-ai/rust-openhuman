@@ -10,7 +10,7 @@ repository = "https://github.com/OpenHuman-ai/rust-openhuman"
 readme = "README.md"
 documentation = "http://openhuman.ai/docs"
 categories = ["ai-tools"]
-keywords = ["openai", "openhuman", "openengine", "virtual human"]
+keywords = ["openai", "openhuman", "openengine"]
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
