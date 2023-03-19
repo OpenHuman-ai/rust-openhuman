@@ -4,14 +4,12 @@ version = "0.1.0"
 edition = "2021"
 authors = ["OpenHuman <openhuman.ai@gmail.com>"]
 description = "OpenHuman.ai: Virtual human assistance"
-license = "MIT OR Apache-2.0"
 license-file = "LICENSE.txt"
 homepage = "http://openhuman.ai"
 repository = "https://github.com/OpenHuman-ai/rust-openhuman"
 readme = "README.md"
 documentation = "http://openhuman.ai/docs"
 categories = ["ai-tools"]
-publish = ["openhuman"]
 keywords = ["openai", "openhuman", "openengine", "virtual human"]
 
 
